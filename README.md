@@ -17,3 +17,19 @@
 ## Youn can find me 🌎:
 
 [![Carlos-Alberto-Gallego-Benitez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Alberto-Gallego-Benitez)](https://github.com/Carlos-Alberto-Gallego-Benitez/github-readme-stats)
+
+
+
+
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
