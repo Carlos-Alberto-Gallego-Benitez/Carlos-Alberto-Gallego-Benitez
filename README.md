@@ -59,4 +59,11 @@
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-squarege&logo=css3&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-squarege&logo=react&logoColor=%2361DAFB" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-squarege&logo=laravel&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-squarege&logo=flask&logoColor=white" />
+   <img alt="FasApi" src="https://img.shields.io/badge/FastAPI-005571?style=flat-squarege&logo=fastapi" />
+   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-squarege&logo=microsoftazure&logoColor=white" />
+   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-squarege&logo=vite&logoColor=white" />
+   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-squarege&logo=django&logoColor=white" />
+   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-squarege&logo=jquery&logoColor=white" />
+   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat-squarege&logo=JSON%20web%20tokens" />
 </p>
