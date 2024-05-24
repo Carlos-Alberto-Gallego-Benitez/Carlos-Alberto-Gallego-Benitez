@@ -21,15 +21,8 @@
 
 
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+JavaScript   3 hrs 28 mins   ██████████████████████░░░   88.45 %
+JSON         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
