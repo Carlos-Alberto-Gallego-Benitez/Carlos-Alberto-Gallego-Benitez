@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on: Software Architecture and software developer
 - 💬 Ask me about: Software developer and Software Architecture
 - 📫 How to reach me: carlosalgabez.08@gmail.com
-- 😄 Pronouns: Caliche
 - ⚡ Fun fact: Me gusta la pesca
 
 
