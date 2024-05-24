@@ -66,4 +66,12 @@
    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-squarege&logo=django&logoColor=white" />
    <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-squarege&logo=jquery&logoColor=white" />
    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat-squarege&logo=JSON%20web%20tokens" />
+   <img alt="TGradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-squarege&logo=Gradle&logoColor=white" />
+   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-squarege&logo=jira&logoColor=white" />
+   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-squarege&logo=csharp&logoColor=white" />
+   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=flat-squarege&logo=android%20studio&logoColor=white" />
+   <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=flat-squarege&logo=github&logoColor=white" />
+   <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-squarege&logo=confluence&logoColor=white" />
+   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat-squarege&logo=eslint&logoColor=white" />
+   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squarege&logo=notion&logoColor=white" />
 </p>
